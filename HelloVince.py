@@ -1,2 +1,2 @@
 print("Hello Vince")
-prinnt(add anotejhwe)
+prinnt("add anotejhwe")
